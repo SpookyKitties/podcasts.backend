@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace libpodcasts
+﻿namespace libpodcasts
 {
     public class Class1
     {
