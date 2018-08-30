@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Skeptoid</title>
+        <link>https://skeptoid.com</link>
+        <language>en-us</language>
+        <copyright>2006-2018 Skeptoid Media, Inc. All Rights Reserved.</copyright>
+        <itunes:subtitle>A weekly look at the true facts behind urban legends and stories you've probably heard.</itunes:subtitle>
+        <itunes:author>Brian Dunning</itunes:author>
+        <itunes:summary>Since 2006, the weekly Skeptoid podcast has been taking on all the most popular myths and revealing the true science, true history, and true lessons we can learn from each. Free subscribers get the most recent 50 episodes, premium subscribers (skeptoid.com) can access the full archive, all ad-free.</itunes:summary>
+        <description>Since 2006, the weekly Skeptoid podcast has been taking on all the most popular myths and revealing the true science, true history, and true lessons we can learn from each. Free subscribers get the most recent 50 episodes, premium subscribers (skeptoid.com) can access the full archive, all ad-free.</description>
+        <itunes:owner>
+            <itunes:name>Brian Dunning</itunes:name>
+            <itunes:email>brian@skeptoid.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>Clean</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <itunes:keywords>skeptic, science, urban legends, paranormal, skepticism, conspiracy theories, history</itunes:keywords>
+        <image>
+            <url>http://skeptoid.com/images/1400.png</url>
+            <title>Skeptoid</title>
+            <link>https://skeptoid.com</link>
+        </image>
+        <itunes:category text="Science & Medicine">
+            <itunes:category text="Social Sciences"/>
+        </itunes:category>
+        <itunes:category text="Science & Medicine">
+            <itunes:category text="Natural Sciences"/>
+        </itunes:category>
+        <itunes:category text="Science & Medicine"/>
+        <atom:link href="http://skeptoid.com/podcast.xml" type="application/rss+xml" rel="self"/>
+        <item>
+            <title>Skeptoid #636: Epigenetics Woo</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Epigenetics Woo</itunes:title>
+            <itunes:subtitle>Epigenetics Woo</itunes:subtitle>
+            <itunes:summary>The notion that you can gain control over your genes through diet or behavior is just more snake-oil woo.</itunes:summary>
+            <itunes:episode>636</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>The notion that you can gain control over your genes through diet or behavior is just more snake-oil woo.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4636.mp3"/>
+            <guid>http://skeptoid.com/episodes/4636</guid>
+            <pubDate>Tue, 14 Aug 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>epigenetics, genetics, diet, heritability, race, health</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #635: The Effects of Mandated GMO Labeling</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Effects of Mandated GMO Labeling</itunes:title>
+            <itunes:subtitle>The Effects of Mandated GMO Labeling</itunes:subtitle>
+            <itunes:summary>We have good evidence for what to expect from mandated labeling of GMO foods, and it's not good.</itunes:summary>
+            <itunes:episode>635</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>We have good evidence for what to expect from mandated labeling of GMO foods, and it's not good.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4635.mp3"/>
+            <guid>http://skeptoid.com/episodes/4635</guid>
+            <pubDate>Tue, 07 Aug 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>gmo, organic, labeling, ge, monsanto</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #634: More Alcohol Myths</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>More Alcohol Myths</itunes:title>
+            <itunes:subtitle>More Alcohol Myths</itunes:subtitle>
+            <itunes:summary>Part 2 of our examination of myths about alcoholic drinks -- including the biggest one of all.</itunes:summary>
+            <itunes:episode>634</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Part 2 of our examination of myths about alcoholic drinks -- including the biggest one of all.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4634.mp3"/>
+            <guid>http://skeptoid.com/episodes/4634</guid>
+            <pubDate>Tue, 31 Jul 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>beer, liquor, wine, alcohol, drunk, benjamin franklin</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #633: The Horsey History of Clever Hans</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Horsey History of Clever Hans</itunes:title>
+            <itunes:subtitle>The Horsey History of Clever Hans</itunes:subtitle>
+            <itunes:summary>This early-1900s horse appeared to be able to do math and other feats, and we learned a lot from him.</itunes:summary>
+            <itunes:episode>633</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>This early-1900s horse appeared to be able to do math and other feats, and we learned a lot from him.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4633.mp3"/>
+            <guid>http://skeptoid.com/episodes/4633</guid>
+            <pubDate>Tue, 24 Jul 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>clever hans, ideomotor, clever hans effect, psychic animals</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #632: Lucid Dreaming</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Lucid Dreaming</itunes:title>
+            <itunes:subtitle>Lucid Dreaming</itunes:subtitle>
+            <itunes:summary>Some people can control their dreams and do anything they want in them -- or can they?</itunes:summary>
+            <itunes:episode>632</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Some people can control their dreams and do anything they want in them -- or can they?</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4632.mp3"/>
+            <guid>http://skeptoid.com/episodes/4632</guid>
+            <pubDate>Tue, 17 Jul 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>dreaming, lucid dreaming, dreams</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #631: Listener Feedback: Death of the Lefties</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Listener Feedback: Death of the Lefties</itunes:title>
+            <itunes:subtitle>Listener Feedback: Death of the Lefties</itunes:subtitle>
+            <itunes:summary>Skeptoid gets some interesting letters from listeners pertaining to radioactive skeletons and lefties.</itunes:summary>
+            <itunes:episode>631</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Skeptoid gets some interesting letters from listeners pertaining to radioactive skeletons and lefties.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4631.mp3"/>
+            <guid>http://skeptoid.com/episodes/4631</guid>
+            <pubDate>Tue, 10 Jul 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>left handed, sinister, skeletons, mohendro-daro, apollo 13</itunes:keywords>
+        </item>
+        <item>
+            <title>Special Request</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Special Request</itunes:title>
+            <itunes:subtitle>Special Request</itunes:subtitle>
+            <itunes:summary>In which I make the biggest ask of you ever.</itunes:summary>
+            <itunes:episodeType>bonus</itunes:episodeType>
+            <description>In which I make the biggest ask of you ever.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-3050.mp3"/>
+            <guid>http://skeptoid.com/episodes/3050</guid>
+            <pubDate>Fri, 06 Jul 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords/>
+        </item>
+        <item>
+            <title>Skeptoid #630: The Apes Who Learned Sign Language</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Apes Who Learned Sign Language</itunes:title>
+            <itunes:subtitle>The Apes Who Learned Sign Language</itunes:subtitle>
+            <itunes:summary>Although many regard Koko as an ape who used sign language, science tells us that ability probably doesn't exist.</itunes:summary>
+            <itunes:episode>630</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Although many regard Koko as an ape who used sign language, science tells us that ability probably doesn't exist.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4630.mp3"/>
+            <guid>http://skeptoid.com/episodes/4630</guid>
+            <pubDate>Tue, 03 Jul 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>koko, kanzi, nim, sign language, asl, apes, gorilla, chimpanzee, bonobo</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #629: Three Big Macs a Day</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Three Big Macs a Day</itunes:title>
+            <itunes:subtitle>Three Big Macs a Day</itunes:subtitle>
+            <itunes:summary>When we set aside pop food woo, we find that even multiple Big Macs can be part of a healthy daily diet.</itunes:summary>
+            <itunes:episode>629</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>When we set aside pop food woo, we find that even multiple Big Macs can be part of a healthy daily diet.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4629.mp3"/>
+            <guid>http://skeptoid.com/episodes/4629</guid>
+            <pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>mcdonald's, big mac, fast food, sodium, saturated fat, diet, dieting</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid NYC Meetup 2018 at NECSS</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Skeptoid NYC Meetup 2018 at NECSS</itunes:title>
+            <itunes:subtitle>Skeptoid NYC Meetup 2018 at NECSS</itunes:subtitle>
+            <itunes:summary>Join all the folks from Skeptoid at a free, informal meetup in New York City, July 12 2018. skeptoid.com/events</itunes:summary>
+            <itunes:episodeType>bonus</itunes:episodeType>
+            <description>Join all the folks from Skeptoid at a free, informal meetup in New York City, July 12 2018. skeptoid.com/events</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-3049.mp3"/>
+            <guid>http://skeptoid.com/episodes/3049</guid>
+            <pubDate>Sat, 23 Jun 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords/>
+        </item>
+        <item>
+            <title>Skeptoid #628: The Swedish Ghost Rockets</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Swedish Ghost Rockets</itunes:title>
+            <itunes:subtitle>The Swedish Ghost Rockets</itunes:subtitle>
+            <itunes:summary>This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missile tests.</itunes:summary>
+            <itunes:episode>628</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missile tests.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4628.mp3"/>
+            <guid>http://skeptoid.com/episodes/4628</guid>
+            <pubDate>Tue, 19 Jun 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>ufos, soviet union, ussr, nazi, v-1, v-2, wwii, world war ii</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #627: Gremlins</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Gremlins</itunes:title>
+            <itunes:subtitle>Gremlins</itunes:subtitle>
+            <itunes:summary>These mischievous creatures that sabotage airplanes are claimed by some to be actual physical beings.</itunes:summary>
+            <itunes:episode>627</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>These mischievous creatures that sabotage airplanes are claimed by some to be actual physical beings.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4627.mp3"/>
+            <guid>http://skeptoid.com/episodes/4627</guid>
+            <pubDate>Tue, 12 Jun 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>gremlins, raf, wwii, world war ii, airplanes, aerospace, aeronautics</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #626: Numerology</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Numerology</itunes:title>
+            <itunes:subtitle>Numerology</itunes:subtitle>
+            <itunes:summary>We put this ancient system of divination based on numbers to the test.</itunes:summary>
+            <itunes:episode>626</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>We put this ancient system of divination based on numbers to the test.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4626.mp3"/>
+            <guid>http://skeptoid.com/episodes/4626</guid>
+            <pubDate>Tue, 05 Jun 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>numerology, divination, horoscopes, astrology, numbers, determinism</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #625: Your Weird Turn</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Your Weird Turn</itunes:title>
+            <itunes:subtitle>Your Weird Turn</itunes:subtitle>
+            <itunes:summary>We try to figure out some of the creepiest stories ever sent in by Skeptoid listeners.</itunes:summary>
+            <itunes:episode>625</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>We try to figure out some of the creepiest stories ever sent in by Skeptoid listeners.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4625.mp3"/>
+            <guid>http://skeptoid.com/episodes/4625</guid>
+            <pubDate>Tue, 29 May 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>ghosts, aliens, UFO, ghost light</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #624: Zuma, The Phantom Satellite</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Zuma, The Phantom Satellite</itunes:title>
+            <itunes:subtitle>Zuma, The Phantom Satellite</itunes:subtitle>
+            <itunes:summary>The malfunction said to have doomed this spacecraft may have just been a cover story.</itunes:summary>
+            <itunes:episode>624</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>The malfunction said to have doomed this spacecraft may have just been a cover story.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4624.mp3"/>
+            <guid>http://skeptoid.com/episodes/4624</guid>
+            <pubDate>Tue, 22 May 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>zuma, misty, spacex, elon musk, northrop grumman, satellites, space</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #623: Environmental Working Group and the Dirty Dozen</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Environmental Working Group and the Dirty Dozen</itunes:title>
+            <itunes:subtitle>Environmental Working Group and the Dirty Dozen</itunes:subtitle>
+            <itunes:summary>This company's annual press releases are intended to frighten you into buying organic.</itunes:summary>
+            <itunes:episode>623</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>This company's annual press releases are intended to frighten you into buying organic.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4623.mp3"/>
+            <guid>http://skeptoid.com/episodes/4623</guid>
+            <pubDate>Tue, 15 May 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>ewg, strawberries, dirty dozen, sunscreen, organic, gmo</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #622: Are You Living in a Simulation?</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Are You Living in a Simulation?</itunes:title>
+            <itunes:subtitle>Are You Living in a Simulation?</itunes:subtitle>
+            <itunes:summary>An exploration of the thought experiment that seeks to determine whether we're living in a computer simulation.</itunes:summary>
+            <itunes:episode>622</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>An exploration of the thought experiment that seeks to determine whether we're living in a computer simulation.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4622.mp3"/>
+            <guid>http://skeptoid.com/episodes/4622</guid>
+            <pubDate>Tue, 08 May 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>elon musk, simulation, the matrix, nick bostrom, simulation hypothesis</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #621: The Pentagon's UFO Hunt</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Pentagon's UFO Hunt</itunes:title>
+            <itunes:subtitle>The Pentagon's UFO Hunt</itunes:subtitle>
+            <itunes:summary>The Pentagon gave $22 million to a very unlikely group of UFO proponents.</itunes:summary>
+            <itunes:episode>621</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>The Pentagon gave $22 million to a very unlikely group of UFO proponents.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4621.mp3"/>
+            <guid>http://skeptoid.com/episodes/4621</guid>
+            <pubDate>Tue, 01 May 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>pentagon, robert bigelow, aatip, ufo, aliens, ufos, luis elizondo, tom delonge</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #620: Listener Feedback: Provisos, Addenda, and Quid Pro Quos</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Listener Feedback: Provisos, Addenda, and Quid Pro Quos</itunes:title>
+            <itunes:subtitle>Listener Feedback: Provisos, Addenda, and Quid Pro Quos</itunes:subtitle>
+            <itunes:summary>Listeners write in with extra information that adds a whole new dimension to some past shows.</itunes:summary>
+            <itunes:episode>620</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Listeners write in with extra information that adds a whole new dimension to some past shows.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4620.mp3"/>
+            <guid>http://skeptoid.com/episodes/4620</guid>
+            <pubDate>Tue, 24 Apr 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>stendec, pterosaur, palm oil, banjawarn, irish slaves, flight 19, zeitgeist</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #619: Alcohol Myths</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Alcohol Myths</itunes:title>
+            <itunes:subtitle>Alcohol Myths</itunes:subtitle>
+            <itunes:summary>We point the skeptical eye at five popular beliefs about alcoholic beverages.</itunes:summary>
+            <itunes:episode>619</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>We point the skeptical eye at five popular beliefs about alcoholic beverages.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4619.mp3"/>
+            <guid>http://skeptoid.com/episodes/4619</guid>
+            <pubDate>Tue, 17 Apr 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>wine, beer, breathing wine, straw, hair of the dog, hangover</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #618: Are They Real, or Are They Fictional?</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Are They Real, or Are They Fictional?</itunes:title>
+            <itunes:subtitle>Are They Real, or Are They Fictional?</itunes:subtitle>
+            <itunes:summary>Another round of famous names from the past: Can you guess whether each is real or fictional?</itunes:summary>
+            <itunes:episode>618</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Another round of famous names from the past: Can you guess whether each is real or fictional?</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4618.mp3"/>
+            <guid>http://skeptoid.com/episodes/4618</guid>
+            <pubDate>Tue, 10 Apr 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>buddha, gilgamesh, solomon, moses, homer, sun tzu</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #617: 10 Great Science Hoaxes</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>10 Great Science Hoaxes</itunes:title>
+            <itunes:subtitle>10 Great Science Hoaxes</itunes:subtitle>
+            <itunes:summary>A look at those few times when hoaxers came closest to fooling those who knew better.</itunes:summary>
+            <itunes:episode>617</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>A look at those few times when hoaxers came closest to fooling those who knew better.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4617.mp3"/>
+            <guid>http://skeptoid.com/episodes/4617</guid>
+            <pubDate>Tue, 03 Apr 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>subliminal, sokal, wakefield, archaeoraptor, piltdown, cardiff, tasaday, turk, kensington</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #616: Abiotic Oil</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Abiotic Oil</itunes:title>
+            <itunes:subtitle>Abiotic Oil</itunes:subtitle>
+            <itunes:summary>Some believe that oil comes from geological processes rather than from ancient biomass.</itunes:summary>
+            <itunes:episode>616</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Some believe that oil comes from geological processes rather than from ancient biomass.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4616.mp3"/>
+            <guid>http://skeptoid.com/episodes/4616</guid>
+            <pubDate>Tue, 27 Mar 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>oil, global warming, russia, petroleum, methane, abiotic oil, abiogenesis</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #615: Titanic Myths</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Titanic Myths</itunes:title>
+            <itunes:subtitle>Titanic Myths</itunes:subtitle>
+            <itunes:summary>Three of the most popular conspiracy theories surrounding the sinking of the Titanic.</itunes:summary>
+            <itunes:episode>615</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Three of the most popular conspiracy theories surrounding the sinking of the Titanic.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4615.mp3"/>
+            <guid>http://skeptoid.com/episodes/4615</guid>
+            <pubDate>Tue, 20 Mar 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>titanic, conspiracy theory, rothschild, rms titanic, rms olympic</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #614: The Inflammatory Diet</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Inflammatory Diet</itunes:title>
+            <itunes:subtitle>The Inflammatory Diet</itunes:subtitle>
+            <itunes:summary>Why no, in fact you should not avoid certain foods to reduce your body's inflammation.</itunes:summary>
+            <itunes:episode>614</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Why no, in fact you should not avoid certain foods to reduce your body's inflammation.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4614.mp3"/>
+            <guid>http://skeptoid.com/episodes/4614</guid>
+            <pubDate>Tue, 13 Mar 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>inflammation, diet, chronic inflammation, processed food, organic</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #613: The Kids Who See Blindfolded</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Kids Who See Blindfolded</itunes:title>
+            <itunes:subtitle>The Kids Who See Blindfolded</itunes:subtitle>
+            <itunes:summary>Children throughout India are being taught to see while blindfolded... apparently.</itunes:summary>
+            <itunes:episode>613</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Children throughout India are being taught to see while blindfolded... apparently.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4613.mp3"/>
+            <guid>http://skeptoid.com/episodes/4613</guid>
+            <pubDate>Tue, 06 Mar 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>midbrain, midbrain activation, narendra nayak, india, kerala</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #612: The Boy Who Thought He Was Reincarnated</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Boy Who Thought He Was Reincarnated</itunes:title>
+            <itunes:subtitle>The Boy Who Thought He Was Reincarnated</itunes:subtitle>
+            <itunes:summary>This boy thought he had lived a past life as a fighter pilot. He had some help getting there.</itunes:summary>
+            <itunes:episode>612</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>This boy thought he had lived a past life as a fighter pilot. He had some help getting there.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4612.mp3"/>
+            <guid>http://skeptoid.com/episodes/4612</guid>
+            <pubDate>Tue, 27 Feb 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>reincarnation, fighter pilot, uss natoma bay, james leininger</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #611: All About Grounding</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>All About Grounding</itunes:title>
+            <itunes:subtitle>All About Grounding</itunes:subtitle>
+            <itunes:summary>Some New Agers believe that you can heal virtually any ailment simply by taking off your shoes.</itunes:summary>
+            <itunes:episode>611</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Some New Agers believe that you can heal virtually any ailment simply by taking off your shoes.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4611.mp3"/>
+            <guid>http://skeptoid.com/episodes/4611</guid>
+            <pubDate>Tue, 20 Feb 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>grounding, earthing, earthing mat, new age, healing, woo, pseudoscience</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #610: The Keepers of Flannan Light</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Keepers of Flannan Light</itunes:title>
+            <itunes:subtitle>The Keepers of Flannan Light</itunes:subtitle>
+            <itunes:summary>Mystery clouds the story of what happened to these three vanished lighthouse keepers.</itunes:summary>
+            <itunes:episode>610</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Mystery clouds the story of what happened to these three vanished lighthouse keepers.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4610.mp3"/>
+            <guid>http://skeptoid.com/episodes/4610</guid>
+            <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>flannan isles, the keepers, eilean mor, lighthouse, flannan lighthouse</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #609: Were There Irish Slaves in America?</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Were There Irish Slaves in America?</itunes:title>
+            <itunes:subtitle>Were There Irish Slaves in America?</itunes:subtitle>
+            <itunes:summary>Online articles claiming the first slaves in the Americas were white are fictional and racially motivated.</itunes:summary>
+            <itunes:episode>609</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Online articles claiming the first slaves in the Americas were white are fictional and racially motivated.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4609.mp3"/>
+            <guid>http://skeptoid.com/episodes/4609</guid>
+            <pubDate>Tue, 06 Feb 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>irish slaves, racism, white slaves, white nationalism, aryan</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #608: Palm Oil Facts and Fiction</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Palm Oil Facts and Fiction</itunes:title>
+            <itunes:subtitle>Palm Oil Facts and Fiction</itunes:subtitle>
+            <itunes:summary>Is it a medical miracle, an environmental disaster, both, or neither?</itunes:summary>
+            <itunes:episode>608</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Is it a medical miracle, an environmental disaster, both, or neither?</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4608.mp3"/>
+            <guid>http://skeptoid.com/episodes/4608</guid>
+            <pubDate>Tue, 30 Jan 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>palm oil, coconut oil, dr. oz, fats, trans fats, saturated fats</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #607: Do Lobsters Feel Pain?</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Do Lobsters Feel Pain?</itunes:title>
+            <itunes:subtitle>Do Lobsters Feel Pain?</itunes:subtitle>
+            <itunes:summary>What the science says on whether we need to change the way we eat crustaceans.</itunes:summary>
+            <itunes:episode>607</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>What the science says on whether we need to change the way we eat crustaceans.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4607.mp3"/>
+            <guid>http://skeptoid.com/episodes/4607</guid>
+            <pubDate>Tue, 23 Jan 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>crabs, lobsters, boiling, peta, wwf, animal rights</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #606: The Murder in the Red Barn</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Murder in the Red Barn</itunes:title>
+            <itunes:subtitle>The Murder in the Red Barn</itunes:subtitle>
+            <itunes:summary>A murder was said to have been solved by the intervention of the victim's ghost.</itunes:summary>
+            <itunes:episode>606</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>A murder was said to have been solved by the intervention of the victim's ghost.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4606.mp3"/>
+            <guid>http://skeptoid.com/episodes/4606</guid>
+            <pubDate>Tue, 16 Jan 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>ghosts, dreams, psychic, visions, red barn murder, maria marten</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #605: The Civil War Pterosaur</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Civil War Pterosaur</itunes:title>
+            <itunes:subtitle>The Civil War Pterosaur</itunes:subtitle>
+            <itunes:summary>This famous Internet photo of Civil War soldiers posing with a pterosaur has a surprising source.</itunes:summary>
+            <itunes:episode>605</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>This famous Internet photo of Civil War soldiers posing with a pterosaur has a surprising source.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4605.mp3"/>
+            <guid>http://skeptoid.com/episodes/4605</guid>
+            <pubDate>Tue, 09 Jan 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>civil war pterosaur, pterodactyl, pteranodon, freakylinks</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #604: Net Neutrality Reexamined</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Net Neutrality Reexamined</itunes:title>
+            <itunes:subtitle>Net Neutrality Reexamined</itunes:subtitle>
+            <itunes:summary>A skeptic's guide for organizing the issues raised by Net Neutrality.</itunes:summary>
+            <itunes:episode>604</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>A skeptic's guide for organizing the issues raised by Net Neutrality.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4604.mp3"/>
+            <guid>http://skeptoid.com/episodes/4604</guid>
+            <pubDate>Tue, 02 Jan 2018 00:00:00 GMT</pubDate>
+            <itunes:keywords>net neutrality</itunes:keywords>
+        </item>
+        <item>
+            <title>Science Friction</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Science Friction</itunes:title>
+            <itunes:subtitle>Science Friction</itunes:subtitle>
+            <itunes:summary>Finally, a documentary film about scientists who get misrepresented by the media.</itunes:summary>
+            <itunes:episodeType>bonus</itunes:episodeType>
+            <description>Finally, a documentary film about scientists who get misrepresented by the media.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-3048.mp3"/>
+            <guid>http://skeptoid.com/episodes/3048</guid>
+            <pubDate>Fri, 29 Dec 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>movies, documentary, science channel, history channel, discovery channel</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #603: Sonic Weapons in Cuba</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Sonic Weapons in Cuba</itunes:title>
+            <itunes:subtitle>Sonic Weapons in Cuba</itunes:subtitle>
+            <itunes:summary>There is a much better explanation than sonic weapons for reported attacks against US diplomats in Cuba.</itunes:summary>
+            <itunes:episode>603</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>There is a much better explanation than sonic weapons for reported attacks against US diplomats in Cuba.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4603.mp3"/>
+            <guid>http://skeptoid.com/episodes/4603</guid>
+            <pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>sonic weapons, cuba, trump, diplomats, embassy, attacks</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #602: Should Moms Eat Placentas?</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Should Moms Eat Placentas?</itunes:title>
+            <itunes:subtitle>Should Moms Eat Placentas?</itunes:subtitle>
+            <itunes:summary>The modern practice of Western mothers eating their placentas is a new and strange attention-seeking behavior.</itunes:summary>
+            <itunes:episode>602</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>The modern practice of Western mothers eating their placentas is a new and strange attention-seeking behavior.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4602.mp3"/>
+            <guid>http://skeptoid.com/episodes/4602</guid>
+            <pubDate>Tue, 19 Dec 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>placenta, fashion, fads, trendy, empowered parent</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #601: Hiding the Decline: Climategate Demystified</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Hiding the Decline: Climategate Demystified</itunes:title>
+            <itunes:subtitle>Hiding the Decline: Climategate Demystified</itunes:subtitle>
+            <itunes:summary>This infamous scandal was said to have proven global warming was all just a hoax. Umm, no.</itunes:summary>
+            <itunes:episode>601</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>This infamous scandal was said to have proven global warming was all just a hoax. Umm, no.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4601.mp3"/>
+            <guid>http://skeptoid.com/episodes/4601</guid>
+            <pubDate>Tue, 12 Dec 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>climate change, global warming, hockey stick, michael mann, agw</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #600: A Musical Retrospective</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>A Musical Retrospective</itunes:title>
+            <itunes:subtitle>A Musical Retrospective</itunes:subtitle>
+            <itunes:summary>Everything you didn't know about ten years of Skeptoid musical episodes, including the reason.</itunes:summary>
+            <itunes:episode>600</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Everything you didn't know about ten years of Skeptoid musical episodes, including the reason.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4600.mp3"/>
+            <guid>http://skeptoid.com/episodes/4600</guid>
+            <pubDate>Tue, 05 Dec 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>rachel bloom, susan egan, lee sanders, ryan johnson, john rael, brian dunning, skeptoid</itunes:keywords>
+        </item>
+        <item>
+            <title>Science Friction</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Science Friction</itunes:title>
+            <itunes:subtitle>Science Friction</itunes:subtitle>
+            <itunes:summary>Finally, a documentary film about scientists who get misrepresented by the media.</itunes:summary>
+            <itunes:episodeType>bonus</itunes:episodeType>
+            <description>Finally, a documentary film about scientists who get misrepresented by the media.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-3047.mp3"/>
+            <guid>http://skeptoid.com/episodes/3047</guid>
+            <pubDate>Fri, 01 Dec 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>documentary, science, scientists, dishonest, misrepresent, history channel, discovery channel</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #599: Listener Feedback: Creationism and More Dead Paul</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Listener Feedback: Creationism and More Dead Paul</itunes:title>
+            <itunes:subtitle>Listener Feedback: Creationism and More Dead Paul</itunes:subtitle>
+            <itunes:summary>Some updates, notes, and extra information sent in by listeners about recent episodes.</itunes:summary>
+            <itunes:episode>599</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Some updates, notes, and extra information sent in by listeners about recent episodes.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4599.mp3"/>
+            <guid>http://skeptoid.com/episodes/4599</guid>
+            <pubDate>Tue, 28 Nov 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>creationism, paul is dead, paul mccartney, grand canyon</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #598: The Hudson Valley UFO Mystery</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Hudson Valley UFO Mystery</itunes:title>
+            <itunes:subtitle>The Hudson Valley UFO Mystery</itunes:subtitle>
+            <itunes:summary>Hundreds of people watched this UFO over the Hudson River Valley many times between 1983 and 1984.</itunes:summary>
+            <itunes:episode>598</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Hundreds of people watched this UFO over the Hudson River Valley many times between 1983 and 1984.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4598.mp3"/>
+            <guid>http://skeptoid.com/episodes/4598</guid>
+            <pubDate>Tue, 21 Nov 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>ufo, ufology, j allen hynek, hudson valley UFO, hudson river UFO</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #597: The Wisdom of the Future</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>The Wisdom of the Future</itunes:title>
+            <itunes:subtitle>The Wisdom of the Future</itunes:subtitle>
+            <itunes:summary>Skeptoid corrects a round of past errors, that they might become the wisdom of the future.</itunes:summary>
+            <itunes:episode>597</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Skeptoid corrects a round of past errors, that they might become the wisdom of the future.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4597.mp3"/>
+            <guid>http://skeptoid.com/episodes/4597</guid>
+            <pubDate>Tue, 14 Nov 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>errors, mistakes, corrections</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #596: How to Assess a Documentary</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>How to Assess a Documentary</itunes:title>
+            <itunes:subtitle>How to Assess a Documentary</itunes:subtitle>
+            <itunes:summary>Some tips to assess whether a documentary is good science or just propaganda.</itunes:summary>
+            <itunes:episode>596</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Some tips to assess whether a documentary is good science or just propaganda.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4596.mp3"/>
+            <guid>http://skeptoid.com/episodes/4596</guid>
+            <pubDate>Tue, 07 Nov 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>movies, documentaries, michael moore, blackfish, gasland, expelled</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #595: Chasing Malaysian Airlines MH370</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Chasing Malaysian Airlines MH370</itunes:title>
+            <itunes:subtitle>Chasing Malaysian Airlines MH370</itunes:subtitle>
+            <itunes:summary>A roundup of the conspiracy theories and the probable true fate of Malaysian Airlines Flight MH370.</itunes:summary>
+            <itunes:episode>595</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>A roundup of the conspiracy theories and the probable true fate of Malaysian Airlines Flight MH370.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4595.mp3"/>
+            <guid>http://skeptoid.com/episodes/4595</guid>
+            <pubDate>Tue, 31 Oct 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>MH370, malaysian airlines, disappearance, conspiracy theory</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #594: Paul Is Dead</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Paul Is Dead</itunes:title>
+            <itunes:subtitle>Paul Is Dead</itunes:subtitle>
+            <itunes:summary>The origins and history of the urban legend that Paul McCartney died and was replaced.</itunes:summary>
+            <itunes:episode>594</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>The origins and history of the urban legend that Paul McCartney died and was replaced.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4594.mp3"/>
+            <guid>http://skeptoid.com/episodes/4594</guid>
+            <pubDate>Tue, 24 Oct 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>paul mccartney, paul is the walrus, beatles, paul is dead</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #593: I Still Can't Believe They Did That: More Human Guinea Pigs</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>I Still Can't Believe They Did That: More Human Guinea Pigs</itunes:title>
+            <itunes:subtitle>I Still Can't Believe They Did That: More Human Guinea Pigs</itunes:subtitle>
+            <itunes:summary>A further look at ten more scientists who experimented on themselves for the benefit of mankind.</itunes:summary>
+            <itunes:episode>593</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>A further look at ten more scientists who experimented on themselves for the benefit of mankind.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4593.mp3"/>
+            <guid>http://skeptoid.com/episodes/4593</guid>
+            <pubDate>Tue, 17 Oct 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>barry marshall, david pritchard, horace wells, elsie widdowson, henry head, stubbins ffirth</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #592: Alert 747: The Vela Incident</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Alert 747: The Vela Incident</itunes:title>
+            <itunes:subtitle>Alert 747: The Vela Incident</itunes:subtitle>
+            <itunes:summary>In 1979, a mysterious flash occurred over the southern ocean that could have been a nuclear bomb.</itunes:summary>
+            <itunes:episode>592</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>In 1979, a mysterious flash occurred over the southern ocean that could have been a nuclear bomb.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4592.mp3"/>
+            <guid>http://skeptoid.com/episodes/4592</guid>
+            <pubDate>Tue, 10 Oct 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>vela incident, south atlantic flash, alert 747, operation phoenix</itunes:keywords>
+        </item>
+        <item>
+            <title>Skeptoid #591: Ouija Boards</title>
+            <itunes:author>Brian Dunning</itunes:author>
+            <itunes:title>Ouija Boards</itunes:title>
+            <itunes:subtitle>Ouija Boards</itunes:subtitle>
+            <itunes:summary>Real effects far more interesting than spiritualism claims are behind these famous talking boards.</itunes:summary>
+            <itunes:episode>591</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <description>Real effects far more interesting than spiritualism claims are behind these famous talking boards.</description>
+            <enclosure type="audio/x-mp3" length="0" url="http://skeptoid.com/audio/skeptoid-4591.mp3"/>
+            <guid>http://skeptoid.com/episodes/4591</guid>
+            <pubDate>Tue, 03 Oct 2017 00:00:00 GMT</pubDate>
+            <itunes:keywords>ouija, spiritualism, ghosts, dead, communication, spirits</itunes:keywords>
+        </item>
+    </channel>
+</rss>
