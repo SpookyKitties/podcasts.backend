@@ -1,0 +1,1380 @@
+{
+    "keywords": [{
+        "keyword": "skeptic"
+    }, {
+        "keyword": " science"
+    }, {
+        "keyword": " urban legends"
+    }, {
+        "keyword": " paranormal"
+    }, {
+        "keyword": " skepticism"
+    }, {
+        "keyword": " conspiracy theories"
+    }, {
+        "keyword": " history"
+    }],
+    "podcastEpisodes": [{
+        "keywords": [{
+            "keyword": "ecuador"
+        }, {
+            "keyword": " stan hall"
+        }, {
+            "keyword": " erich von daniken"
+        }, {
+            "keyword": " aliens"
+        }, {
+            "keyword": " ancient aliens"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Cueva de los Tayos and the Lost Metal Library: Part 2",
+        "subtitle": "Cueva de los Tayos and the Lost Metal Library: Part 2",
+        "summary": "We break down the evidence for this alleged cave claimed to contain alien wonders.",
+        "episode": "638",
+        "episodeType": "full",
+        "description": "We break down the evidence for this alleged cave claimed to contain alien wonders.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4638",
+        "pubDate": "2018-08-28T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "ancient aliens"
+        }, {
+            "keyword": " erich von daniken"
+        }, {
+            "keyword": " chariots of the gods"
+        }, {
+            "keyword": " ecuador"
+        }, {
+            "keyword": " cuave de los tayos"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Cueva de los Tayos and the Lost Metal Library: Part 1",
+        "subtitle": "Cueva de los Tayos and the Lost Metal Library: Part 1",
+        "summary": "This cave in Ecuador is said to hide a vast advanced library on metal plates guarded by lasers.",
+        "episode": "637",
+        "episodeType": "full",
+        "description": "This cave in Ecuador is said to hide a vast advanced library on metal plates guarded by lasers.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4637",
+        "pubDate": "2018-08-21T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "epigenetics"
+        }, {
+            "keyword": " genetics"
+        }, {
+            "keyword": " diet"
+        }, {
+            "keyword": " heritability"
+        }, {
+            "keyword": " race"
+        }, {
+            "keyword": " health"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Epigenetics Woo",
+        "subtitle": "Epigenetics Woo",
+        "summary": "The notion that you can gain control over your genes through diet or behavior is just more snake-oil woo.",
+        "episode": "636",
+        "episodeType": "full",
+        "description": "The notion that you can gain control over your genes through diet or behavior is just more snake-oil woo.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4636",
+        "pubDate": "2018-08-14T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "gmo"
+        }, {
+            "keyword": " organic"
+        }, {
+            "keyword": " labeling"
+        }, {
+            "keyword": " ge"
+        }, {
+            "keyword": " monsanto"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Effects of Mandated GMO Labeling",
+        "subtitle": "The Effects of Mandated GMO Labeling",
+        "summary": "We have good evidence for what to expect from mandated labeling of GMO foods, and it's not good.",
+        "episode": "635",
+        "episodeType": "full",
+        "description": "We have good evidence for what to expect from mandated labeling of GMO foods, and it's not good.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4635",
+        "pubDate": "2018-08-07T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "beer"
+        }, {
+            "keyword": " liquor"
+        }, {
+            "keyword": " wine"
+        }, {
+            "keyword": " alcohol"
+        }, {
+            "keyword": " drunk"
+        }, {
+            "keyword": " benjamin franklin"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "More Alcohol Myths",
+        "subtitle": "More Alcohol Myths",
+        "summary": "Part 2 of our examination of myths about alcoholic drinks -- including the biggest one of all.",
+        "episode": "634",
+        "episodeType": "full",
+        "description": "Part 2 of our examination of myths about alcoholic drinks -- including the biggest one of all.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4634",
+        "pubDate": "2018-07-31T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "clever hans"
+        }, {
+            "keyword": " ideomotor"
+        }, {
+            "keyword": " clever hans effect"
+        }, {
+            "keyword": " psychic animals"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Horsey History of Clever Hans",
+        "subtitle": "The Horsey History of Clever Hans",
+        "summary": "This early-1900s horse appeared to be able to do math and other feats, and we learned a lot from him.",
+        "episode": "633",
+        "episodeType": "full",
+        "description": "This early-1900s horse appeared to be able to do math and other feats, and we learned a lot from him.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4633",
+        "pubDate": "2018-07-24T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "dreaming"
+        }, {
+            "keyword": " lucid dreaming"
+        }, {
+            "keyword": " dreams"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Lucid Dreaming",
+        "subtitle": "Lucid Dreaming",
+        "summary": "Some people can control their dreams and do anything they want in them -- or can they?",
+        "episode": "632",
+        "episodeType": "full",
+        "description": "Some people can control their dreams and do anything they want in them -- or can they?",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4632",
+        "pubDate": "2018-07-17T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "left handed"
+        }, {
+            "keyword": " sinister"
+        }, {
+            "keyword": " skeletons"
+        }, {
+            "keyword": " mohendro-daro"
+        }, {
+            "keyword": " apollo 13"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Listener Feedback: Death of the Lefties",
+        "subtitle": "Listener Feedback: Death of the Lefties",
+        "summary": "Skeptoid gets some interesting letters from listeners pertaining to radioactive skeletons and lefties.",
+        "episode": "631",
+        "episodeType": "full",
+        "description": "Skeptoid gets some interesting letters from listeners pertaining to radioactive skeletons and lefties.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4631",
+        "pubDate": "2018-07-10T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": ""
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Special Request",
+        "subtitle": "Special Request",
+        "summary": "In which I make the biggest ask of you ever.",
+        "episode": "",
+        "episodeType": "bonus",
+        "description": "In which I make the biggest ask of you ever.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/3050",
+        "pubDate": "2018-07-06T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "koko"
+        }, {
+            "keyword": " kanzi"
+        }, {
+            "keyword": " nim"
+        }, {
+            "keyword": " sign language"
+        }, {
+            "keyword": " asl"
+        }, {
+            "keyword": " apes"
+        }, {
+            "keyword": " gorilla"
+        }, {
+            "keyword": " chimpanzee"
+        }, {
+            "keyword": " bonobo"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Apes Who Learned Sign Language",
+        "subtitle": "The Apes Who Learned Sign Language",
+        "summary": "Although many regard Koko as an ape who used sign language, science tells us that ability probably doesn't exist.",
+        "episode": "630",
+        "episodeType": "full",
+        "description": "Although many regard Koko as an ape who used sign language, science tells us that ability probably doesn't exist.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4630",
+        "pubDate": "2018-07-03T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "mcdonald's"
+        }, {
+            "keyword": " big mac"
+        }, {
+            "keyword": " fast food"
+        }, {
+            "keyword": " sodium"
+        }, {
+            "keyword": " saturated fat"
+        }, {
+            "keyword": " diet"
+        }, {
+            "keyword": " dieting"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Three Big Macs a Day",
+        "subtitle": "Three Big Macs a Day",
+        "summary": "When we set aside pop food woo, we find that even multiple Big Macs can be part of a healthy daily diet.",
+        "episode": "629",
+        "episodeType": "full",
+        "description": "When we set aside pop food woo, we find that even multiple Big Macs can be part of a healthy daily diet.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4629",
+        "pubDate": "2018-06-26T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": ""
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Skeptoid NYC Meetup 2018 at NECSS",
+        "subtitle": "Skeptoid NYC Meetup 2018 at NECSS",
+        "summary": "Join all the folks from Skeptoid at a free, informal meetup in New York City, July 12 2018. skeptoid.com/events",
+        "episode": "",
+        "episodeType": "bonus",
+        "description": "Join all the folks from Skeptoid at a free, informal meetup in New York City, July 12 2018. skeptoid.com/events",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/3049",
+        "pubDate": "2018-06-23T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "ufos"
+        }, {
+            "keyword": " soviet union"
+        }, {
+            "keyword": " ussr"
+        }, {
+            "keyword": " nazi"
+        }, {
+            "keyword": " v-1"
+        }, {
+            "keyword": " v-2"
+        }, {
+            "keyword": " wwii"
+        }, {
+            "keyword": " world war ii"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Swedish Ghost Rockets",
+        "subtitle": "The Swedish Ghost Rockets",
+        "summary": "This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missile tests.",
+        "episode": "628",
+        "episodeType": "full",
+        "description": "This rash of UFO sightings over Sweden in 1946 has long been considered to be Soviet missile tests.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4628",
+        "pubDate": "2018-06-19T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "gremlins"
+        }, {
+            "keyword": " raf"
+        }, {
+            "keyword": " wwii"
+        }, {
+            "keyword": " world war ii"
+        }, {
+            "keyword": " airplanes"
+        }, {
+            "keyword": " aerospace"
+        }, {
+            "keyword": " aeronautics"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Gremlins",
+        "subtitle": "Gremlins",
+        "summary": "These mischievous creatures that sabotage airplanes are claimed by some to be actual physical beings.",
+        "episode": "627",
+        "episodeType": "full",
+        "description": "These mischievous creatures that sabotage airplanes are claimed by some to be actual physical beings.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4627",
+        "pubDate": "2018-06-12T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "numerology"
+        }, {
+            "keyword": " divination"
+        }, {
+            "keyword": " horoscopes"
+        }, {
+            "keyword": " astrology"
+        }, {
+            "keyword": " numbers"
+        }, {
+            "keyword": " determinism"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Numerology",
+        "subtitle": "Numerology",
+        "summary": "We put this ancient system of divination based on numbers to the test.",
+        "episode": "626",
+        "episodeType": "full",
+        "description": "We put this ancient system of divination based on numbers to the test.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4626",
+        "pubDate": "2018-06-05T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "ghosts"
+        }, {
+            "keyword": " aliens"
+        }, {
+            "keyword": " UFO"
+        }, {
+            "keyword": " ghost light"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Your Weird Turn",
+        "subtitle": "Your Weird Turn",
+        "summary": "We try to figure out some of the creepiest stories ever sent in by Skeptoid listeners.",
+        "episode": "625",
+        "episodeType": "full",
+        "description": "We try to figure out some of the creepiest stories ever sent in by Skeptoid listeners.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4625",
+        "pubDate": "2018-05-29T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "zuma"
+        }, {
+            "keyword": " misty"
+        }, {
+            "keyword": " spacex"
+        }, {
+            "keyword": " elon musk"
+        }, {
+            "keyword": " northrop grumman"
+        }, {
+            "keyword": " satellites"
+        }, {
+            "keyword": " space"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Zuma, The Phantom Satellite",
+        "subtitle": "Zuma, The Phantom Satellite",
+        "summary": "The malfunction said to have doomed this spacecraft may have just been a cover story.",
+        "episode": "624",
+        "episodeType": "full",
+        "description": "The malfunction said to have doomed this spacecraft may have just been a cover story.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4624",
+        "pubDate": "2018-05-22T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "ewg"
+        }, {
+            "keyword": " strawberries"
+        }, {
+            "keyword": " dirty dozen"
+        }, {
+            "keyword": " sunscreen"
+        }, {
+            "keyword": " organic"
+        }, {
+            "keyword": " gmo"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Environmental Working Group and the Dirty Dozen",
+        "subtitle": "Environmental Working Group and the Dirty Dozen",
+        "summary": "This company's annual press releases are intended to frighten you into buying organic.",
+        "episode": "623",
+        "episodeType": "full",
+        "description": "This company's annual press releases are intended to frighten you into buying organic.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4623",
+        "pubDate": "2018-05-15T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "elon musk"
+        }, {
+            "keyword": " simulation"
+        }, {
+            "keyword": " the matrix"
+        }, {
+            "keyword": " nick bostrom"
+        }, {
+            "keyword": " simulation hypothesis"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Are You Living in a Simulation?",
+        "subtitle": "Are You Living in a Simulation?",
+        "summary": "An exploration of the thought experiment that seeks to determine whether we're living in a computer simulation.",
+        "episode": "622",
+        "episodeType": "full",
+        "description": "An exploration of the thought experiment that seeks to determine whether we're living in a computer simulation.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4622",
+        "pubDate": "2018-05-08T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "pentagon"
+        }, {
+            "keyword": " robert bigelow"
+        }, {
+            "keyword": " aatip"
+        }, {
+            "keyword": " ufo"
+        }, {
+            "keyword": " aliens"
+        }, {
+            "keyword": " ufos"
+        }, {
+            "keyword": " luis elizondo"
+        }, {
+            "keyword": " tom delonge"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Pentagon's UFO Hunt",
+        "subtitle": "The Pentagon's UFO Hunt",
+        "summary": "The Pentagon gave $22 million to a very unlikely group of UFO proponents.",
+        "episode": "621",
+        "episodeType": "full",
+        "description": "The Pentagon gave $22 million to a very unlikely group of UFO proponents.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4621",
+        "pubDate": "2018-05-01T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "stendec"
+        }, {
+            "keyword": " pterosaur"
+        }, {
+            "keyword": " palm oil"
+        }, {
+            "keyword": " banjawarn"
+        }, {
+            "keyword": " irish slaves"
+        }, {
+            "keyword": " flight 19"
+        }, {
+            "keyword": " zeitgeist"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Listener Feedback: Provisos, Addenda, and Quid Pro Quos",
+        "subtitle": "Listener Feedback: Provisos, Addenda, and Quid Pro Quos",
+        "summary": "Listeners write in with extra information that adds a whole new dimension to some past shows.",
+        "episode": "620",
+        "episodeType": "full",
+        "description": "Listeners write in with extra information that adds a whole new dimension to some past shows.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4620",
+        "pubDate": "2018-04-24T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "wine"
+        }, {
+            "keyword": " beer"
+        }, {
+            "keyword": " breathing wine"
+        }, {
+            "keyword": " straw"
+        }, {
+            "keyword": " hair of the dog"
+        }, {
+            "keyword": " hangover"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Alcohol Myths",
+        "subtitle": "Alcohol Myths",
+        "summary": "We point the skeptical eye at five popular beliefs about alcoholic beverages.",
+        "episode": "619",
+        "episodeType": "full",
+        "description": "We point the skeptical eye at five popular beliefs about alcoholic beverages.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4619",
+        "pubDate": "2018-04-17T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "buddha"
+        }, {
+            "keyword": " gilgamesh"
+        }, {
+            "keyword": " solomon"
+        }, {
+            "keyword": " moses"
+        }, {
+            "keyword": " homer"
+        }, {
+            "keyword": " sun tzu"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Are They Real, or Are They Fictional?",
+        "subtitle": "Are They Real, or Are They Fictional?",
+        "summary": "Another round of famous names from the past: Can you guess whether each is real or fictional?",
+        "episode": "618",
+        "episodeType": "full",
+        "description": "Another round of famous names from the past: Can you guess whether each is real or fictional?",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4618",
+        "pubDate": "2018-04-10T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "subliminal"
+        }, {
+            "keyword": " sokal"
+        }, {
+            "keyword": " wakefield"
+        }, {
+            "keyword": " archaeoraptor"
+        }, {
+            "keyword": " piltdown"
+        }, {
+            "keyword": " cardiff"
+        }, {
+            "keyword": " tasaday"
+        }, {
+            "keyword": " turk"
+        }, {
+            "keyword": " kensington"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "10 Great Science Hoaxes",
+        "subtitle": "10 Great Science Hoaxes",
+        "summary": "A look at those few times when hoaxers came closest to fooling those who knew better.",
+        "episode": "617",
+        "episodeType": "full",
+        "description": "A look at those few times when hoaxers came closest to fooling those who knew better.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4617",
+        "pubDate": "2018-04-03T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "oil"
+        }, {
+            "keyword": " global warming"
+        }, {
+            "keyword": " russia"
+        }, {
+            "keyword": " petroleum"
+        }, {
+            "keyword": " methane"
+        }, {
+            "keyword": " abiotic oil"
+        }, {
+            "keyword": " abiogenesis"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Abiotic Oil",
+        "subtitle": "Abiotic Oil",
+        "summary": "Some believe that oil comes from geological processes rather than from ancient biomass.",
+        "episode": "616",
+        "episodeType": "full",
+        "description": "Some believe that oil comes from geological processes rather than from ancient biomass.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4616",
+        "pubDate": "2018-03-27T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "titanic"
+        }, {
+            "keyword": " conspiracy theory"
+        }, {
+            "keyword": " rothschild"
+        }, {
+            "keyword": " rms titanic"
+        }, {
+            "keyword": " rms olympic"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Titanic Myths",
+        "subtitle": "Titanic Myths",
+        "summary": "Three of the most popular conspiracy theories surrounding the sinking of the Titanic.",
+        "episode": "615",
+        "episodeType": "full",
+        "description": "Three of the most popular conspiracy theories surrounding the sinking of the Titanic.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4615",
+        "pubDate": "2018-03-20T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "inflammation"
+        }, {
+            "keyword": " diet"
+        }, {
+            "keyword": " chronic inflammation"
+        }, {
+            "keyword": " processed food"
+        }, {
+            "keyword": " organic"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Inflammatory Diet",
+        "subtitle": "The Inflammatory Diet",
+        "summary": "Why no, in fact you should not avoid certain foods to reduce your body's inflammation.",
+        "episode": "614",
+        "episodeType": "full",
+        "description": "Why no, in fact you should not avoid certain foods to reduce your body's inflammation.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4614",
+        "pubDate": "2018-03-13T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "midbrain"
+        }, {
+            "keyword": " midbrain activation"
+        }, {
+            "keyword": " narendra nayak"
+        }, {
+            "keyword": " india"
+        }, {
+            "keyword": " kerala"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Kids Who See Blindfolded",
+        "subtitle": "The Kids Who See Blindfolded",
+        "summary": "Children throughout India are being taught to see while blindfolded... apparently.",
+        "episode": "613",
+        "episodeType": "full",
+        "description": "Children throughout India are being taught to see while blindfolded... apparently.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4613",
+        "pubDate": "2018-03-06T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "reincarnation"
+        }, {
+            "keyword": " fighter pilot"
+        }, {
+            "keyword": " uss natoma bay"
+        }, {
+            "keyword": " james leininger"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Boy Who Thought He Was Reincarnated",
+        "subtitle": "The Boy Who Thought He Was Reincarnated",
+        "summary": "This boy thought he had lived a past life as a fighter pilot. He had some help getting there.",
+        "episode": "612",
+        "episodeType": "full",
+        "description": "This boy thought he had lived a past life as a fighter pilot. He had some help getting there.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4612",
+        "pubDate": "2018-02-27T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "grounding"
+        }, {
+            "keyword": " earthing"
+        }, {
+            "keyword": " earthing mat"
+        }, {
+            "keyword": " new age"
+        }, {
+            "keyword": " healing"
+        }, {
+            "keyword": " woo"
+        }, {
+            "keyword": " pseudoscience"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "All About Grounding",
+        "subtitle": "All About Grounding",
+        "summary": "Some New Agers believe that you can heal virtually any ailment simply by taking off your shoes.",
+        "episode": "611",
+        "episodeType": "full",
+        "description": "Some New Agers believe that you can heal virtually any ailment simply by taking off your shoes.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4611",
+        "pubDate": "2018-02-20T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "flannan isles"
+        }, {
+            "keyword": " the keepers"
+        }, {
+            "keyword": " eilean mor"
+        }, {
+            "keyword": " lighthouse"
+        }, {
+            "keyword": " flannan lighthouse"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Keepers of Flannan Light",
+        "subtitle": "The Keepers of Flannan Light",
+        "summary": "Mystery clouds the story of what happened to these three vanished lighthouse keepers.",
+        "episode": "610",
+        "episodeType": "full",
+        "description": "Mystery clouds the story of what happened to these three vanished lighthouse keepers.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4610",
+        "pubDate": "2018-02-13T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "irish slaves"
+        }, {
+            "keyword": " racism"
+        }, {
+            "keyword": " white slaves"
+        }, {
+            "keyword": " white nationalism"
+        }, {
+            "keyword": " aryan"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Were There Irish Slaves in America?",
+        "subtitle": "Were There Irish Slaves in America?",
+        "summary": "Online articles claiming the first slaves in the Americas were white are fictional and racially motivated.",
+        "episode": "609",
+        "episodeType": "full",
+        "description": "Online articles claiming the first slaves in the Americas were white are fictional and racially motivated.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4609",
+        "pubDate": "2018-02-06T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "palm oil"
+        }, {
+            "keyword": " coconut oil"
+        }, {
+            "keyword": " dr. oz"
+        }, {
+            "keyword": " fats"
+        }, {
+            "keyword": " trans fats"
+        }, {
+            "keyword": " saturated fats"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Palm Oil Facts and Fiction",
+        "subtitle": "Palm Oil Facts and Fiction",
+        "summary": "Is it a medical miracle, an environmental disaster, both, or neither?",
+        "episode": "608",
+        "episodeType": "full",
+        "description": "Is it a medical miracle, an environmental disaster, both, or neither?",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4608",
+        "pubDate": "2018-01-30T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "crabs"
+        }, {
+            "keyword": " lobsters"
+        }, {
+            "keyword": " boiling"
+        }, {
+            "keyword": " peta"
+        }, {
+            "keyword": " wwf"
+        }, {
+            "keyword": " animal rights"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Do Lobsters Feel Pain?",
+        "subtitle": "Do Lobsters Feel Pain?",
+        "summary": "What the science says on whether we need to change the way we eat crustaceans.",
+        "episode": "607",
+        "episodeType": "full",
+        "description": "What the science says on whether we need to change the way we eat crustaceans.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4607",
+        "pubDate": "2018-01-23T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "ghosts"
+        }, {
+            "keyword": " dreams"
+        }, {
+            "keyword": " psychic"
+        }, {
+            "keyword": " visions"
+        }, {
+            "keyword": " red barn murder"
+        }, {
+            "keyword": " maria marten"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Murder in the Red Barn",
+        "subtitle": "The Murder in the Red Barn",
+        "summary": "A murder was said to have been solved by the intervention of the victim's ghost.",
+        "episode": "606",
+        "episodeType": "full",
+        "description": "A murder was said to have been solved by the intervention of the victim's ghost.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4606",
+        "pubDate": "2018-01-16T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "civil war pterosaur"
+        }, {
+            "keyword": " pterodactyl"
+        }, {
+            "keyword": " pteranodon"
+        }, {
+            "keyword": " freakylinks"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Civil War Pterosaur",
+        "subtitle": "The Civil War Pterosaur",
+        "summary": "This famous Internet photo of Civil War soldiers posing with a pterosaur has a surprising source.",
+        "episode": "605",
+        "episodeType": "full",
+        "description": "This famous Internet photo of Civil War soldiers posing with a pterosaur has a surprising source.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4605",
+        "pubDate": "2018-01-09T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "net neutrality"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Net Neutrality Reexamined",
+        "subtitle": "Net Neutrality Reexamined",
+        "summary": "A skeptic's guide for organizing the issues raised by Net Neutrality.",
+        "episode": "604",
+        "episodeType": "full",
+        "description": "A skeptic's guide for organizing the issues raised by Net Neutrality.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4604",
+        "pubDate": "2018-01-02T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "movies"
+        }, {
+            "keyword": " documentary"
+        }, {
+            "keyword": " science channel"
+        }, {
+            "keyword": " history channel"
+        }, {
+            "keyword": " discovery channel"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Science Friction",
+        "subtitle": "Science Friction",
+        "summary": "Finally, a documentary film about scientists who get misrepresented by the media.",
+        "episode": "",
+        "episodeType": "bonus",
+        "description": "Finally, a documentary film about scientists who get misrepresented by the media.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/3048",
+        "pubDate": "2017-12-29T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "sonic weapons"
+        }, {
+            "keyword": " cuba"
+        }, {
+            "keyword": " trump"
+        }, {
+            "keyword": " diplomats"
+        }, {
+            "keyword": " embassy"
+        }, {
+            "keyword": " attacks"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Sonic Weapons in Cuba",
+        "subtitle": "Sonic Weapons in Cuba",
+        "summary": "There is a much better explanation than sonic weapons for reported attacks against US diplomats in Cuba.",
+        "episode": "603",
+        "episodeType": "full",
+        "description": "There is a much better explanation than sonic weapons for reported attacks against US diplomats in Cuba.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4603",
+        "pubDate": "2017-12-26T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "placenta"
+        }, {
+            "keyword": " fashion"
+        }, {
+            "keyword": " fads"
+        }, {
+            "keyword": " trendy"
+        }, {
+            "keyword": " empowered parent"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Should Moms Eat Placentas?",
+        "subtitle": "Should Moms Eat Placentas?",
+        "summary": "The modern practice of Western mothers eating their placentas is a new and strange attention-seeking behavior.",
+        "episode": "602",
+        "episodeType": "full",
+        "description": "The modern practice of Western mothers eating their placentas is a new and strange attention-seeking behavior.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4602",
+        "pubDate": "2017-12-19T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "climate change"
+        }, {
+            "keyword": " global warming"
+        }, {
+            "keyword": " hockey stick"
+        }, {
+            "keyword": " michael mann"
+        }, {
+            "keyword": " agw"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Hiding the Decline: Climategate Demystified",
+        "subtitle": "Hiding the Decline: Climategate Demystified",
+        "summary": "This infamous scandal was said to have proven global warming was all just a hoax. Umm, no.",
+        "episode": "601",
+        "episodeType": "full",
+        "description": "This infamous scandal was said to have proven global warming was all just a hoax. Umm, no.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4601",
+        "pubDate": "2017-12-12T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "rachel bloom"
+        }, {
+            "keyword": " susan egan"
+        }, {
+            "keyword": " lee sanders"
+        }, {
+            "keyword": " ryan johnson"
+        }, {
+            "keyword": " john rael"
+        }, {
+            "keyword": " brian dunning"
+        }, {
+            "keyword": " skeptoid"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "A Musical Retrospective",
+        "subtitle": "A Musical Retrospective",
+        "summary": "Everything you didn't know about ten years of Skeptoid musical episodes, including the reason.",
+        "episode": "600",
+        "episodeType": "full",
+        "description": "Everything you didn't know about ten years of Skeptoid musical episodes, including the reason.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4600",
+        "pubDate": "2017-12-05T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "documentary"
+        }, {
+            "keyword": " science"
+        }, {
+            "keyword": " scientists"
+        }, {
+            "keyword": " dishonest"
+        }, {
+            "keyword": " misrepresent"
+        }, {
+            "keyword": " history channel"
+        }, {
+            "keyword": " discovery channel"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Science Friction",
+        "subtitle": "Science Friction",
+        "summary": "Finally, a documentary film about scientists who get misrepresented by the media.",
+        "episode": "",
+        "episodeType": "bonus",
+        "description": "Finally, a documentary film about scientists who get misrepresented by the media.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/3047",
+        "pubDate": "2017-12-01T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "creationism"
+        }, {
+            "keyword": " paul is dead"
+        }, {
+            "keyword": " paul mccartney"
+        }, {
+            "keyword": " grand canyon"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Listener Feedback: Creationism and More Dead Paul",
+        "subtitle": "Listener Feedback: Creationism and More Dead Paul",
+        "summary": "Some updates, notes, and extra information sent in by listeners about recent episodes.",
+        "episode": "599",
+        "episodeType": "full",
+        "description": "Some updates, notes, and extra information sent in by listeners about recent episodes.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4599",
+        "pubDate": "2017-11-28T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "ufo"
+        }, {
+            "keyword": " ufology"
+        }, {
+            "keyword": " j allen hynek"
+        }, {
+            "keyword": " hudson valley UFO"
+        }, {
+            "keyword": " hudson river UFO"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Hudson Valley UFO Mystery",
+        "subtitle": "The Hudson Valley UFO Mystery",
+        "summary": "Hundreds of people watched this UFO over the Hudson River Valley many times between 1983 and 1984.",
+        "episode": "598",
+        "episodeType": "full",
+        "description": "Hundreds of people watched this UFO over the Hudson River Valley many times between 1983 and 1984.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4598",
+        "pubDate": "2017-11-21T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "errors"
+        }, {
+            "keyword": " mistakes"
+        }, {
+            "keyword": " corrections"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "The Wisdom of the Future",
+        "subtitle": "The Wisdom of the Future",
+        "summary": "Skeptoid corrects a round of past errors, that they might become the wisdom of the future.",
+        "episode": "597",
+        "episodeType": "full",
+        "description": "Skeptoid corrects a round of past errors, that they might become the wisdom of the future.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4597",
+        "pubDate": "2017-11-14T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "movies"
+        }, {
+            "keyword": " documentaries"
+        }, {
+            "keyword": " michael moore"
+        }, {
+            "keyword": " blackfish"
+        }, {
+            "keyword": " gasland"
+        }, {
+            "keyword": " expelled"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "How to Assess a Documentary",
+        "subtitle": "How to Assess a Documentary",
+        "summary": "Some tips to assess whether a documentary is good science or just propaganda.",
+        "episode": "596",
+        "episodeType": "full",
+        "description": "Some tips to assess whether a documentary is good science or just propaganda.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4596",
+        "pubDate": "2017-11-07T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "MH370"
+        }, {
+            "keyword": " malaysian airlines"
+        }, {
+            "keyword": " disappearance"
+        }, {
+            "keyword": " conspiracy theory"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Chasing Malaysian Airlines MH370",
+        "subtitle": "Chasing Malaysian Airlines MH370",
+        "summary": "A roundup of the conspiracy theories and the probable true fate of Malaysian Airlines Flight MH370.",
+        "episode": "595",
+        "episodeType": "full",
+        "description": "A roundup of the conspiracy theories and the probable true fate of Malaysian Airlines Flight MH370.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4595",
+        "pubDate": "2017-10-31T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "paul mccartney"
+        }, {
+            "keyword": " paul is the walrus"
+        }, {
+            "keyword": " beatles"
+        }, {
+            "keyword": " paul is dead"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "Paul Is Dead",
+        "subtitle": "Paul Is Dead",
+        "summary": "The origins and history of the urban legend that Paul McCartney died and was replaced.",
+        "episode": "594",
+        "episodeType": "full",
+        "description": "The origins and history of the urban legend that Paul McCartney died and was replaced.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4594",
+        "pubDate": "2017-10-24T00:00:00.000Z"
+    }, {
+        "keywords": [{
+            "keyword": "barry marshall"
+        }, {
+            "keyword": " david pritchard"
+        }, {
+            "keyword": " horace wells"
+        }, {
+            "keyword": " elsie widdowson"
+        }, {
+            "keyword": " henry head"
+        }, {
+            "keyword": " stubbins ffirth"
+        }],
+        "played": false,
+        "author": "Brian Dunning",
+        "title": "I Still Can't Believe They Did That: More Human Guinea Pigs",
+        "subtitle": "I Still Can't Believe They Did That: More Human Guinea Pigs",
+        "summary": "A further look at ten more scientists who experimented on themselves for the benefit of mankind.",
+        "episode": "593",
+        "episodeType": "full",
+        "description": "A further look at ten more scientists who experimented on themselves for the benefit of mankind.",
+        "enclosure": {
+            "type": "a",
+            "url": "h"
+        },
+        "guid": "http://skeptoid.com/episodes/4593",
+        "pubDate": "2017-10-17T00:00:00.000Z"
+    }],
+    "imageUrl": "http://skeptoid.com/images/1400.png",
+    "image": {
+        "url": ["http://skeptoid.com/images/1400.png"],
+        "title": ["Skeptoid"],
+        "link": ["https://skeptoid.com"]
+    },
+    "title": "Skeptoid",
+    "description": "Since 2006, the weekly Skeptoid podcast has been taking on all the most popular myths and revealing the true science, true history, and true lessons we can learn from each. Free subscribers get the most recent 50 episodes, premium subscribers (skeptoid.com) can access the full archive, all ad-free.",
+    "url": "Since 2006, the weekly Skeptoid podcast has been taking on all the most popular myths and revealing the true science, true history, and true lessons we can learn from each. Free subscribers get the most recent 50 episodes, premium subscribers (skeptoid.com) can access the full archive, all ad-free.",
+    "subtitle": "A weekly look at the true facts behind urban legends and stories you've probably heard.",
+    "author": "Brian Dunning",
+    "summary": "Since 2006, the weekly Skeptoid podcast has been taking on all the most popular myths and revealing the true science, true history, and true lessons we can learn from each. Free subscribers get the most recent 50 episodes, premium subscribers (skeptoid.com) can access the full archive, all ad-free.",
+    "explicit": ["Clean"],
+    "type": "episodic",
+    "category": {
+        "$": {
+            "TEXT": "Science & Medicine"
+        },
+        "ITUNES:CATEGORY": [{
+            "$": {
+                "TEXT": "Social Sciences"
+            }
+        }]
+    }
+}
