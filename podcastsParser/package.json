@@ -5,7 +5,7 @@
   "author": "Jared Parkinson",
   "license": "MIT",
   "scripts": {
-    "start": "tsc && node ./bin/index.js"
+    "start": "tsc && node --max-old-space-size=4096  ./bin/index.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
