@@ -21,7 +21,12 @@ export class Main {
       // this.parsePodcast(data);
       // console.log(pEpisodes.length);
     });
-    Axios.get('http://skeptoid.com/podcast.xml').then(response => {
+    const skeptoid = 'http://skeptoid.com/podcast.xml';
+    this.downloadPodcast(skeptoid);
+  }
+
+  private downloadPodcast(skeptoid: string) {
+    Axios.get(skeptoid).then(response => {
       // console.log(response);
       this.parsePodcast(response.data);
     });
