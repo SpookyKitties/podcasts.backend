@@ -10,6 +10,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "commander": "^2.17.1",
+    "global": "^4.3.2",
     "graceful-fs": "^4.1.11",
     "tslint-config-prettier": "^1.15.0",
     "xml2js": "^0.4.19"

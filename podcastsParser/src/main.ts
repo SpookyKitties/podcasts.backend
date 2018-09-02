@@ -12,7 +12,7 @@ export class Main {
     // this.downloadItunesInformation();
     fs.readdir('./xmlTest', (err, files) => {
       files.forEach(file => {
-        fs.readFile('./xmlTest/' + file, 'utf8', (err2: any, data: any) => {
+        fs.readFile('./xmlTest/' + file, 'utf8', (err2, data) => {
           // console.log(data);
           const podcast = this.parsePodcast(data);
           if (podcast) {
@@ -83,12 +83,17 @@ export class Main {
       if (xml2jsErr) {
         throw xml2jsErr;
       }
+
       try {
         const channel = result.RSS.CHANNEL[0];
         // const title = channel.TITLE[0];
         // const imageUrl = channel.IMAGE[0].URL[0];
         // const description = channel.DESCRIPTION[0];
-        return new PodcastModel(channel);
+
+        const podcast = new PodcastModel(channel);
+        // console.log('Finished: ' + podcast.url);
+
+        return podcast;
       } catch {
         return null;
       }
