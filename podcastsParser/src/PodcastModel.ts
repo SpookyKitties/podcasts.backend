@@ -59,10 +59,10 @@ export class PodcastModel {
     });
     this.category = channel['ITUNES:CATEGORY'][0];
 
-    this.failingTest();
     for (const item of channel.ITEM) {
       this.podcastEpisodes.push(new PodcastEpisodeModel(item));
     }
+    this.failingTest();
   }
 
   private failingTest() {
